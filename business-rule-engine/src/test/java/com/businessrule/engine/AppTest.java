@@ -13,6 +13,9 @@ public class AppTest
     public void appTest()
     {
     	
- 
+    	productSelectionTest.selectProductForBookTest();
+    	productSelectionTest.selectProductForMemebershipActiveTest();
+        
+    	productSelectionTest.selectProductForMemebershipUpgradeTest();
     }
 }
